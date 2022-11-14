@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<videojuegos>
+	<videojuego multijugador="si">
+		<titulo>Call Of Duty</titulo>
+		<plataforma>Play Station 5</plataforma>
+	</videojuego>
+	<videojuego multijugador="si">
+		<titulo>Fortnite</titulo>
+		<plataforma>Xbox One</plataforma>
+	</videojuego>
+	<videojuego multijugador="no">
+	<titulo>Manic Miner</titulo>
+	<plataforma>Amstrad CPC</plataforma>
+	</videojuego>
+</videojuegos>
